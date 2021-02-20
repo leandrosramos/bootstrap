@@ -6,11 +6,12 @@
 .navbar {
     background-color:white;
     font-size: large;
+    height: 100%;
 }
 
 .quem-somos {
     background-color:cornflowerblue;
-    height: 550px;
+    height: 100%;
     color: white;
 }
 
@@ -21,12 +22,12 @@
 
 .parceiros {
     background-color:white;
-    height: 550px;
+    height: 100%;
 }
 
 .servicos {
     background-color: white;
-    height: 550px;
+    height: 100%;
 }
 
 .footer{
