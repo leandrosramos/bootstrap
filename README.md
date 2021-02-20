@@ -20,11 +20,15 @@ Um curso de introdução desenvolvido pela Digital Innovation One (DIO) para exp
 
 Este exercício usa os seguintes recursos de bootstrap: 
 
-* Classe **navbar ** para navegar dentro da página web. 
+* Classe **navbar** para navegar dentro da página web. 
 
 * **rounded-circle** para mostrar imagens arredondadas. 
+
 * **container-fluid** para uma melhor apresentação dos elementos div nas páginas, obtendo toda a largura de tamanho da página.  
-* **container **, **row ** e **col-lg ** para fazer uma estrutura separada por colunas usando tags div. 
+
+* **container**, **row** e **col-lg** para fazer uma estrutura separada por colunas usando tags div.
+
+  
 
 -----------------------------
 
